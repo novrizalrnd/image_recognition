@@ -3,7 +3,7 @@
 ## **Introduction**
 This notebook was made as a Final Project from [Machine Learning Course at Dicoding](https://www.dicoding.com/academies/184) 
  
-## Goals
+## Goals & Objective
 The goals is to recognize the shape of the hand that forms scissors, rock, or paper from images
 
 ## Dataset Information
