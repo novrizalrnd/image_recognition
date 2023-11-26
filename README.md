@@ -9,7 +9,7 @@ The goals is to recognize the shape of the hand that forms scissors, rock, or pa
 ## Dataset Information
 This dataset has 1312 rows training data and 876 validation data
 
-## Results:
+## Results
 
 ### Base Model:
 ![image](https://raw.githubusercontent.com/novrizalrnd/image_recognition/main/img/base_model.png)
